@@ -1,4 +1,4 @@
-<a href="http://info.smartmessages.net"><img src="http://www.smartmessages.net/images/smartmessages-logo.svg" width="400" alt="Smartmessages logo"></a>
+<a href="http://info.smartmessages.net"><img src="http://www.smartmessages.net/img/smartmessages-logo.svg" width="400" alt="Smartmessages logo"></a>
 Smartmessages snippets for SublimeText
 ==============================
 
